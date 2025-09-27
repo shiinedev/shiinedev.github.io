@@ -12,17 +12,17 @@ export function ContactSection() {
         <div className="text-center mb-16">
           <h2 className="text-3xl md:text-4xl font-bold mb-4">Get In Touch</h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto text-balance">
-            Have a project in mind? Let's work together to bring your ideas to life
+            Have a project in mind? Let&apos;s work together to bring your ideas to life
           </p>
         </div>
 
         <div className="grid lg:grid-cols-2 gap-12">
           <div className="space-y-8">
             <div>
-              <h3 className="text-2xl font-semibold mb-4">Let's start a conversation</h3>
+              <h3 className="text-2xl font-semibold mb-4">Let&apos;s start a conversation</h3>
               <p className="text-muted-foreground mb-6">
-                I'm always interested in hearing about new projects and opportunities. Whether you're a company looking
-                to hire, or you're a fellow developer wanting to collaborate, I'd love to hear from you.
+                I&apos;m always interested in hearing about new projects and opportunities. Whether you&apos;re a company looking
+                to hire, or you&apos;re a fellow developer wanting to collaborate, I&apos;d love to hear from you.
               </p>
             </div>
 
@@ -62,7 +62,7 @@ export function ContactSection() {
           <Card>
             <CardHeader>
               <CardTitle>Send me a message</CardTitle>
-              <CardDescription>Fill out the form below and I'll get back to you as soon as possible.</CardDescription>
+              <CardDescription>Fill out the form below and I&apos;ll get back to you as soon as possible.</CardDescription>
             </CardHeader>
             <CardContent className="space-y-4">
               <div className="grid grid-cols-2 gap-4">

@@ -8,7 +8,7 @@ export function AboutSection() {
         <div className="text-center mb-16">
           <h2 className="text-3xl md:text-4xl font-bold mb-4">About Me</h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto text-balance">
-            I'm a passionate developer with 2+ years of experience building scalable web applications. I love turning
+            I&apos;m a passionate developer with 1+ years of experience building scalable web applications. I love turning
             complex problems into simple, beautiful solutions.
           </p>
         </div>

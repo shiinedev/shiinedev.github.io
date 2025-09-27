@@ -8,7 +8,7 @@ export function HeroSection() {
       <div className="max-w-4xl mx-auto text-center space-y-8">
         <div className="space-y-4">
           <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold tracking-tight text-balance">
-            Hi, I'm <span className="text-primary">Shiinedev</span>
+            Hi, I&apos;m <span className="text-primary">Shiinedev</span>
           </h1>
           <p className="text-xl md:text-2xl text-muted-foreground max-w-2xl mx-auto text-balance">
             Full-stack developer crafting beautiful, performant web experiences with modern technologies
